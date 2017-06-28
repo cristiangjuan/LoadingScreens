@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/anim_ripple_pink_white"  >
+    
+    <item android:drawable="@drawable/ripple_pink_white_0" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_1" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_2" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_3" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_4" android:duration="100" />
+    
+    <item android:drawable="@drawable/ripple_pink_white_5" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_6" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_7" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_8" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_9" android:duration="100" />
+    
+    <item android:drawable="@drawable/ripple_pink_white_10" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_11" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_12" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_13" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_14" android:duration="100" />
+
+    <item android:drawable="@drawable/ripple_pink_white_15" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_16" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_17" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_18" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_19" android:duration="100" />
+    
+    <item android:drawable="@drawable/ripple_pink_white_20" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_21" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_22" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_23" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_24" android:duration="100" />
+
+    <item android:drawable="@drawable/ripple_pink_white_25" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_26" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_27" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_28" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_29" android:duration="100" />
+
+    <item android:drawable="@drawable/ripple_pink_white_30" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_31" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_32" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_33" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_34" android:duration="100" />
+
+    <item android:drawable="@drawable/ripple_pink_white_35" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_36" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_37" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_38" android:duration="100" />
+    <item android:drawable="@drawable/ripple_pink_white_39" android:duration="100" />
+    
+</animation-list>

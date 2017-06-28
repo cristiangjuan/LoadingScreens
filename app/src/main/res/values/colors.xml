@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="progressBarBck">#F2F2F2</color>
+
+    <color name="colorIndigo">#3F51B5</color>
+    <color name="colorIndigoDark">#303F9F</color>
+    <color name="colorPink">#FF4081</color>
+
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorGreenDark">#388E3C</color>
+    <color name="colorDeepOrange">#FF5722</color>
+
+    <color name="colorTeal">#009688</color>
+    <color name="colorTealDark">#00796B</color>
+    <color name="colorAmber">#FFC107</color>
+
+
+</resources>
